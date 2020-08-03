@@ -8,5 +8,7 @@ Each of the experiments listed below is hosted on [Pavlovia](https://pavlovia.or
 * [e2e_img](https://gitlab.pavlovia.org/tpronk/e2e_img). Presents a series of bitmaps; once with straight orientation and once rotated by 5 degrees to the right. The first pair of bitmaps is in PNG format, while the second pair is in JPG format.
 * [e2e_sound](https://gitlab.pavlovia.org/tpronk/e2e_sound). Presents a series of sounds over a background song. The sounds are synchronised with a series of images.
 * [e2e_video](https://gitlab.pavlovia.org/tpronk/e2e_video). Presents a video. 
-* 
+* [e2e_text](https://gitlab.pavlovia.org/tpronk/e2e_text). Presents a series of words in Turkish, Chinese, and Arabic script. Each word is presented once in Arial and once in Georgia font.
 
+## Advanced experiments
+* [e2e_embed_html](https://gitlab.pavlovia.org/tpronk/e2e_embed_html). Embeds an HTML web page in a PsychoJS task and stores data collected via this page. Two examples are included; one that presents a basic HTML page and one that present a [form.io](https://formio.github.io/formio.js/) form.
