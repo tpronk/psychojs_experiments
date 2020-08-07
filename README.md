@@ -14,3 +14,5 @@ Each of the experiments listed below is hosted on [Pavlovia](https://pavlovia.or
 ## Advanced experiments
 * [e2e_embed_html](https://gitlab.pavlovia.org/tpronk/e2e_embed_html). Embeds an HTML web page in a PsychoJS task and stores data collected via this page. Two examples are included; one that presents a basic HTML page and one that present a [form.io](https://formio.github.io/formio.js/) form.
 * [e2e_buttons](https://gitlab.pavlovia.org/tpronk/e2e_buttons). Presents a couple of polygons that light up when clicked on.
+* [demo_refresh_rate](https://gitlab.pavlovia.org/tpronk/demo_refresh_rate). Measures and reports the refresh rate of your browser.
+* [demo_eye_tracking](https://gitlab.pavlovia.org/tpronk/demo_eye_tracking). Demonstrates eye tracking via a webcam.
