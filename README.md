@@ -1,9 +1,11 @@
 # e2e_experiments
-A collection of [PsychoJS](https://github.com/psychopy/psychojs) experiments that serve as feature demonstrations and as end points for automated end-to-end testing. 
-Each of the experiments listed below is hosted on [Pavlovia](https://pavlovia.org/)'s GitLab site, where you can find further documentation and clone them for your own purposes.
+A collection of [PsychoPy](https://github.com/psychopy/psychojs)/[PsychoJS](https://github.com/psychopy/psychojs) experiments that serve as teaching demonstrations, experiment templates, and advanced demonstration. Some of these experiments also serve as end points for automated end-to-end testing scripts (i.e. test if PsychoJS works on all kinds of different devices, operating systems, and web-browsers).
 
-## Basic experiments
-* [e2e_minimal](https://gitlab.pavlovia.org/tpronk/e2e_minimal). A minimal experiment: it presents a white square and registers a click or tap reponse.
+For each experiment, I list (1) a link to Pavlovia's GitLab site, where you can find further documentation and clone them for your own purposes; and (2) a link to Pavlovia's Runner, where you can try them out in your web-browser.
+
+## Teaching demonstrations
+These are basic demonstrations of PsychoPy/PsychoJS components.
+* **e2e_minimal.** A minimal experiment: it presents a white square and registers a click or tap reponse. [GitLab](https://gitlab.pavlovia.org/tpronk/e2e_minimal), [Runner](https://run.pavlovia.org/tpronk/e2e_minimal/html/)
 * [e2e_polygons](https://gitlab.pavlovia.org/tpronk/e2e_polygons). Presents a series of polygons; once with straight orientation and once rotated by 5 degrees to the right.
 * [e2e_img](https://gitlab.pavlovia.org/tpronk/e2e_img). Presents a series of bitmaps; once with straight orientation and once rotated by 5 degrees to the right. The first pair of bitmaps is in PNG format, while the second pair is in JPG format.
 * [e2e_sound](https://gitlab.pavlovia.org/tpronk/e2e_sound). Presents a series of sounds over a background song. The sounds are synchronised with a series of images.
@@ -11,7 +13,10 @@ Each of the experiments listed below is hosted on [Pavlovia](https://pavlovia.or
 * [e2e_text](https://gitlab.pavlovia.org/tpronk/e2e_text). Presents a series of words in Turkish, Chinese, and Arabic script. Each word is presented once in Arial and once in Georgia font.
 * [e2e_conditions](https://gitlab.pavlovia.org/tpronk/e2e_conditions). Reads in a CSV and XLSX conditions file and loops over them using various randomisation settings.
 
-## Advanced experiments
+## Experiment templates
+*No templates yet*
+
+## Advanced demos
 * [e2e_embed_html](https://gitlab.pavlovia.org/tpronk/e2e_embed_html). Embeds an HTML web page in a PsychoJS task and stores data collected via this page. Two examples are included; one that presents a basic HTML page and one that present a [form.io](https://formio.github.io/formio.js/) form.
 * [e2e_buttons](https://gitlab.pavlovia.org/tpronk/e2e_buttons). Presents a couple of polygons that light up when clicked on.
 * [demo_refresh_rate](https://gitlab.pavlovia.org/tpronk/demo_refresh_rate). Measures and reports the refresh rate of your browser.
