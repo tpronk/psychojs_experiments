@@ -20,5 +20,5 @@ These are basic demonstrations of PsychoPy/PsychoJS components.
 
 ## Advanced demos
 * **e2e_embed_html.** Embeds an HTML web page in a PsychoJS task and stores data collected via this page. Two examples are included; one that presents a basic HTML page and one that present a [form.io](https://formio.github.io/formio.js/) form. [GitLab](https://gitlab.pavlovia.org/tpronk/e2e_embed_html), [Demo](https://run.pavlovia.org/tpronk/e2e_embed_html/html)
+* **demo_eye_tracking.** Demonstrates eye tracking via a webcam using the [webgazer](https://webgazer.cs.brown.edu/) library. [GitLab](https://gitlab.pavlovia.org/tpronk/demo_eye_tracking), [Demo](https://run.pavlovia.org/tpronk/demo_eye_tracking)
 * **demo_refresh_rate.** Measures and reports the refresh rate of your browser. [GitLab](https://gitlab.pavlovia.org/tpronk/demo_refresh_rate), [Demo](https://run.pavlovia.org/tpronk/demo_refresh_rate).
-* **demo_eye_tracking.** Demonstrates eye tracking via a webcam using the [webgazer](https://webgazer.cs.brown.edu/) library. [GitLab](https://gitlab.pavlovia.org/tpronk/demo_eye_tracking), [Demo](https://run.pavlovia.org/tpronk/demo_eye_tracking/html)
