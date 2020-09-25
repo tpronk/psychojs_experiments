@@ -27,4 +27,4 @@ e2e_polygons | Presents a series of polygons; once with straight orientation and
 e2e_slider | Presents a slider. | [GitLab](https://gitlab.pavlovia.org/tpronk/e2e_slider) | [Demo](https://run.pavlovia.org/tpronk/e2e_slider) | Yes
 e2e_text | Presents a series of words in Turkish, Chinese, and Arabic script. Each word is presented once in Arial and once in Georgia font. | [GitLab](https://gitlab.pavlovia.org/tpronk/e2e_text) | [Demo](https://run.pavlovia.org/tpronk/e2e_text/html) | Yes
 e2e_textbox | Presents an editable textbox and shows the text that was typed in. | [GitLab](https://gitlab.pavlovia.org/tpronk/e2e_textbox) | [Demo](https://run.pavlovia.org/tpronk/e2e_textbox/html) | Yes
-e2e_video | Presents video that consists of a green square without sound. | [GitLab](https://gitlab.pavlovia.org/tpronk/e2e_video) | [Demo](https://run.pavlovia.org/tpronk/e2e_video/html) | No
+e2e_video | Presents video that consists of a green square without sound. | [GitLab](https://gitlab.pavlovia.org/tpronk/e2e_video) | [Demo](https://run.pavlovia.org/tpronk/e2e_video) | No
