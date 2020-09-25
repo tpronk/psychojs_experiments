@@ -12,7 +12,7 @@ The table below lists the collection. For each experiment, it lists:
 
 Name | Description | GitLab | Demo | PsychoPy 
 :--- | :--- | :---: | :---: | :---:
-demo_buttons | Presents a couple of polygons that light up when clicked on. | [GitLab](https://gitlab.pavlovia.org/tpronk/demo_buttons) | [Demo](https://run.pavlovia.org/tpronk/demo_buttons) | Yes 
+demo_buttons | Presents a couple of polygons that light up when clicked on. | [GitLab](https://gitlab.pavlovia.org/tpronk/demo_buttons) | [Demo](https://run.pavlovia.org/tpronk/demo_buttons/html) | Yes 
 demo_embed_html | Embeds a web page in a PsychoJS task and stores data collected via this page. Two examples are included; one that presents a basic HTML page and one that present a [form.io](https://formio.github.io/formio.js/) form. | [GitLab](https://gitlab.pavlovia.org/tpronk/demo_embed_html) | [Demo](https://run.pavlovia.org/tpronk/demo_embed_html/html) | No 
 demo_expose_js | Exposes a couple of PsychoJS stimuli to the global namespace, so that they can be accessed via a web-browser console. | [GitLab](https://gitlab.pavlovia.org/tpronk/demo_embed_html) | [Demo](https://run.pavlovia.org/tpronk/demo_embed_html/html) | No 
 demo_eye_tracking | Demonstrates eye tracking via a webcam using the [webgazer](https://webgazer.cs.brown.edu/) library. Not supported on mobile yet. | [GitLab](https://gitlab.pavlovia.org/tpronk/demo_eye_tracking) | [Demo](https://run.pavlovia.org/tpronk/demo_eye_tracking) | No 
