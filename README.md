@@ -1,4 +1,4 @@
-# e2e_experiments
+# psychojs_experiments
 A collection of experiments that serve as demos (prefixed demo_) and end points for automated end-to-end testing scripts (prefixed e2e_). These experiments were originally developed for [PsychoJS](https://github.com/psychopy/psychojs), but most are compatible with [PsychoPy](https://github.com/psychopy/psychopy) as well.
 
 The demos can be useful examples for learning how to use a particular PsychoJS/PsychoPy component. The e2e end points can be useful starting points at well, though they contain some additional code components for interacting with testing scripts. Unless otherwise mentioned, the experiments are compatible with desktop/laptop computers, registering click responses, and with mobile (smartphones/tables). 
