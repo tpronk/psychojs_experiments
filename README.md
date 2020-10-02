@@ -1,9 +1,8 @@
 # psychojs_experiments
 ## Introduction
-A collection of experiments that serve as demos (prefixed demo_) and end points for automated end-to-end testing scripts (prefixed e2e_). These experiments were originally developed for [PsychoJS](https://github.com/psychopy/psychojs), but most are compatible with [PsychoPy](https://github.com/psychopy/psychopy) as well.
+A collection of experiments that serve examples for learning how to use a particular PsychoJS/PsychoPy component. These experiments were originally developed for [PsychoJS](https://github.com/psychopy/psychojs), but most are compatible with [PsychoPy](https://github.com/psychopy/psychopy) as well. Unless otherwise mentioned, the experiments are compatible with desktop/laptop computers, registering click responses, and with mobile (smartphones/tables). Besides these demos, there is a collection of experiments built for automated testing. An overview of these experiments van be found in the [e2e_robot repository](https://github.com/tpronk/e2e_robot/blob/master/README.md#overview-of-tests)
 
-The demos can be useful examples for learning how to use a particular PsychoJS/PsychoPy component. The e2e end points can be useful starting points at well, though they contain some additional code components for interacting with testing scripts. Unless otherwise mentioned, the experiments are compatible with desktop/laptop computers, registering click responses, and with mobile (smartphones/tables). 
-
+## Overview of experiments
 The table below lists the collection. For each experiment, it lists:
 * **Name.** Its name
 * **Description.** A brief description
@@ -11,7 +10,6 @@ The table below lists the collection. For each experiment, it lists:
 * **Demo.** A link to an online demo on [Pavlovia](pavlovia.org)
 * **PsychoPy.** Whether it also works on PsychoPy
 
-## Collection
 Name | Description | GitLab | Demo | PsychoPy 
 :--- | :--- | :---: | :---: | :---:
 demo_buttons | Presents a couple of polygons that light up when clicked on. | [GitLab](https://gitlab.pavlovia.org/tpronk/demo_buttons) | [Demo](https://run.pavlovia.org/tpronk/demo_buttons/html) | Yes 
